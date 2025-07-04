@@ -1,4 +1,4 @@
-const hamburger = document.getElementById('hamburger');
+ const hamburger = document.getElementById('hamburger');
 const mobileMenu = document.getElementById('mobileMenu');
 const closeBtn = document.getElementById('closeBtn');
 const overlay = document.getElementById('overlay');
